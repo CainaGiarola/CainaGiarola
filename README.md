@@ -43,8 +43,8 @@
 ---
 
 ### 📫 Connect with me
-- 💼 LinkedIn: https://linkedin.com/in/SEU_LINKEDIN
-- 📧 Email: SEU_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/caina-giarola-6148171b7/
+- 📧 Email: caina447@gmail.com / nextflow.dev@gmail.com
 
 ---
 
